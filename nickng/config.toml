@@ -1,0 +1,4 @@
+baseURL = 'http://nickng.life/'
+languageCode = 'en-us'
+title = 'NICK NG'
+theme = "hugo-PaperMod"
