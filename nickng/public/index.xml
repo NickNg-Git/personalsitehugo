@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>NICK NG</title>
+    <link>https://nickng.life/</link>
+    <description>Recent content on NICK NG</description>
+    <image>
+      <url>https://nickng.life/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://nickng.life/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Thu, 17 Mar 2022 13:22:46 +0800</lastBuildDate><atom:link href="https://nickng.life/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Welcome to My Site</title>
+      <link>https://nickng.life/posts/welcome-to-my-site/</link>
+      <pubDate>Thu, 17 Mar 2022 13:22:46 +0800</pubDate>
+      
+      <guid>https://nickng.life/posts/welcome-to-my-site/</guid>
+      <description>Hi! 👋🏻 This is Nick and welcome to my site
+I am so excited that I have finally gotten my site up and running. I have always wanted to start my own personal website to help me
+  Clarify my thoughts
+  Have an online presence
+  Create more than I consume
+  Yet, I have been putting it aside for about a year now because I find it hard to create just the website alone, and to start writing as I am never someone who is good in writing to begin with.</description>
+    </item>
+    
+  </channel>
+</rss>
