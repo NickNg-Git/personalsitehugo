@@ -17,9 +17,9 @@ minify:
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
   title: NICK NG
-  description: "ExampleSite description"
+  description: "I write to improve"
   keywords: [Blog, Portfolio, PaperMod]
-  author: Me
+  author: Nick Ng
   # author: ["Me", "You"] # multiple authors
   images: ["<link or path of image for opengraph, twitter-cards>"]
   DateFormat: "January 2, 2006"
