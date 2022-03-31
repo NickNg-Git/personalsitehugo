@@ -45,7 +45,7 @@ So today, I’ll be sharing with you my journey - how and why I joined the progr
 
 When covid hit in 2020, things were not going so well in my previous job so I knew that I had to start thinking about my plans in terms of my career and after narrowing down, I knew that the only industry that I could take a step into would be the IT industry. 
 
-Reason being, there was a huge manpower crunch in the industry and IT is something that I could learn on my own especially with so many free resources online these days. 
+Reason being, there is a huge demand of manpower in the industry and IT is something that I could learn on my own especially with so many free resources online these days. 
 
 However, the IT industry itself is really broad and there are many areas within IT such as Cybersecurity, Web Design, Developer, Cloud Computing, Networking, Tech Support and so on. 
 
