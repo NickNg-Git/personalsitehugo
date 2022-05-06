@@ -201,6 +201,8 @@ All you need is a curious mind and the willingness to learn.
 
 Happy learning!
 
+Nick
+
 --- 
 ## Resources
 
